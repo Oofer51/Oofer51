@@ -11,6 +11,7 @@
 Oofer51/Oofer51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<pre>
 ---------------------------------------------
 Technology Stack: 
 
@@ -27,3 +28,4 @@ Technology Stack:
 
 <!--
 --->
+</pre>
