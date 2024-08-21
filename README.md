@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Christian I commonly go by Oofer online.
+- 📚 I'm currently a student at: Palm Beach Atlantic University.
 - 👀 I’m interested in: Software development in C and python
 - 🌱 I’m currently learning: Javascript
 - 💞️ I’m looking to collaborate on: Anything programming related
