@@ -1,31 +1,56 @@
-- 👋 Hi, I’m Christian I commonly go by Oofer online.
-- 📚 I'm currently a student at: Palm Beach Atlantic University.
-- 👀 I’m interested in: Software development in C and python
-- 🌱 I’m currently learning: Javascript
-- 💞️ I’m looking to collaborate on: Anything programming related
-- 📫 How to reach me: My Discord is oofermanno or you can email me at oofermanno@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have been programming since I was 7 years old.
+<h2 align="left">Hi 👋! My name is Christian and I'm a Software Engineer, from Orlando, FL</h2>
 
-<!---
-Oofer51/Oofer51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
 
----------------------------------------------
-Technology Stack: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oofer51&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oofer51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
----------------------------------------------
+<img align="right" height="150" src="https://i.imgflip.com/9102x9.gif"  />
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
+</div>
 
-   [![Oofers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oofer51&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oofer51&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-   [![Oofers's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Oofer51&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+###
 
+<div align="left">
+  <a href="https://www.twitch.tv/ooferdaman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="oofermanno@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.youtube.com/@ooferman3436/community" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+</div>
 
-<!--
---->
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Oofer51/Oofer51/output/snake.svg" alt="Snake animation" />
+
+###
