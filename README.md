@@ -19,7 +19,7 @@ Technology Stack:
 
 
 
-[![Oofers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oofer51&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+   [![Oofers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oofer51&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 --->
