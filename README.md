@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Oofer and I'm a Software Engineer, from Orlando, FL</h2>
+<h2 align="center">Hi 👋! I'm Oofer and I'm a Software Engineer, from Orlando, FL</h2>
 
 ###
 
